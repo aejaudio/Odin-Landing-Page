@@ -73,6 +73,7 @@ a{
     height: 25px;
     max-width: 100px;
     padding: 0;
+    font-weight: bold;
 
 }
 .image-container{
@@ -131,4 +132,50 @@ a{
     display: flex;
     justify-content: flex-end;
     padding-right: 300px;
+}
+.fourth-block{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding-left: 175px;
+    padding-right: 175px;
+}
+.button-two{
+    cursor: pointer;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 8px 24px;
+    color: #E5E7EB;
+    border: 1.5px solid white;
+    font-weight: bold;
+    height: 25px;
+    max-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.action{
+    background: #3882F6;
+    height: 100px;
+    width: 700px;
+    border-radius: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-evenly;
+  
+}
+.header-three{
+    font-size: 20px;
+}
+.text-three{
+    font-size: 12px;
+    font-weight: 400;
 }
